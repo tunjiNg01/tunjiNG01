@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+I’m a full-stack software developer with a bachelor's degree in mathematics, passionate about good software solutions. I am an energetic ambitious person who has developed a mature and responsible approach to any task that I undertake or any situation that I am presented with.
+
 <!--
 **tunjiNg01/tunjiNG01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
