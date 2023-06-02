@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Tunji Hammed
+### I'm Tunji Hammed 📚
 I’m a full-stack software developer with a bachelor's degree in mathematics, I'm passionate about writing good software solutions. I am an energetic ambitious person who has developed a mature and responsible approach to any task that I undertake or any situation that I am presented with.
 
 I have experience using the following languages and framework:
@@ -15,7 +15,7 @@ I have experience using the following languages and framework:
 - mysql and mongodb
 - swift and swiftUI
 
-You can connect with me on:
+You can connect with me on 📫:
 - Twitter: [@thetunjihammed](https://twitter.com/thetunjihammed)
 - linkedin: https://www.linkedin.com/in/hammed-olatunji-09a5091ba/
 
