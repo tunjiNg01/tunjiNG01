@@ -10,6 +10,9 @@ You can connect with me on 📫:
 - Twitter: [@thetunjihammed](https://twitter.com/thetunjihammed)
 - linkedin: https://www.linkedin.com/in/hammed-olatunji-09a5091ba/
 
+You can also checkout my vlog
+- Youtube: https://www.youtube.com/@devtok-sd3mv
+
 <!--
 **tunjiNg01/tunjiNG01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
