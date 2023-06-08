@@ -9,6 +9,7 @@ I have experience using the following languages and framework:
 You can connect with me on 📫:
 - Twitter: [@thetunjihammed](https://twitter.com/thetunjihammed)
 - linkedin: https://www.linkedin.com/in/hammed-olatunji-09a5091ba/
+- Email: olatunjihammed95@gmail.com
 
 You can also checkout my vlog
 - Youtube: https://www.youtube.com/@devtok-sd3mv
