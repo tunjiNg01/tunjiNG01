@@ -6,9 +6,9 @@ I’m a full-stack software developer with a bachelor's degree in mathematics, I
 I have experience using the following languages and framework:
 - React - nextjs - bootstrap - vanilla js - html and css - c# dotnet - php - nodejs and express - mysql and mongodb - swift and swiftUI
 
-You can connect with me on 📫:
-- Twitter: [@thetunjihammed](https://twitter.com/thetunjihammed)
-- linkedin: https://www.linkedin.com/in/hammed-olatunji-09a5091ba/
+#### You can connect with me on 📫:
+- Twitter🐦 : [@thetunjihammed](https://twitter.com/thetunjihammed)
+- LinkedIn : https://www.linkedin.com/in/hammed-olatunji-09a5091ba/
 - Email: olatunjihammed95@gmail.com
 
 You can also checkout my vlog
