@@ -9,6 +9,7 @@ I have experience using the following languages and framework:
 #### You can connect with me on 📫:
 - Twitter🐦 : [@thetunjihammed](https://twitter.com/thetunjihammed)
 - LinkedIn : https://www.linkedin.com/in/hammed-olatunji-09a5091ba/
+- Leetcode : https://leetcode.com/thetunjiHammed/
 - Email: olatunjihammed95@gmail.com
 
 You can also checkout my vlog
